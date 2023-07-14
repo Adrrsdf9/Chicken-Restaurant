@@ -1,0 +1,99 @@
+<a href="https://wa.me/1234567890" target="_blank"><button>أرسل طلب الآن عبر الواتساب</button></a>
+<div class="row bg-light">
+				<div class="col">
+					<form>
+						<div class="form-row">
+						  	<div class="form-group col-6">
+						  		<h3>Reserve</h3>
+						  		<label for="inputDate"> Date</label>
+						  		<input type="date" class="form-control" id="inputDate" placeholder="Data gg/mm/aaaa">
+						  	</div>
+						  	<div class="form-group col-6">
+						  		<h3>Details</h3>
+						  		<label for="inputName"> Name</label>
+						  		<input type="text" class="form-control" id="inputName" placeholder="Name">
+						  	</div>
+						  	<div class="form-group col-6">
+						  		<label for="inputTime"> Timetables</label>
+						  		<input type="time" class="form-control" id="inputTime" placeholder="Timetables">
+						  	</div>
+						  	<div class="form-group col-6">
+						  		<label for="inputEmail"> Email</label>
+						  		<input type="email" class="form-control" id="inputEmail" placeholder="Email">
+						  	</div>
+						  	<div class="form-group col-6">
+						  		<label for="inputNumber"> Number of Guests</label>
+						  		<input type="number" class="form-control" id="inputNumber" placeholder="Number of Guests">
+						  	</div>
+						  	<div class="form-group col-6">
+						  		<label for="inputCel"> Phone</label>
+						  		<input type="tel" class="form-control" id="inputCel" placeholder="Phone">
+						  	</div>
+  							<div class="form-group col-12">
+  								<label for="inputComment"> Further requests</label>
+								<textarea class="form-control" rows="4" id="inputComment" placeholder="Further requests"></textarea>
+							</div>
+					 	</div>
+						<div class="row">
+					  		<div class="col-md-4 col-md-offset-4">
+					  			<button type="submit" class="btn btn-secondary btn-block">Reserve</button>
+					  		</div>
+					  	</div>
+					</form>
+				</div>
+			</div>
+			
+			
+			<style>
+  button:hover {
+    background-color: #ff0000;
+  }
+</style>
+
+<button>Click me!</button>
+            <a href="https://wa.me/+996990192675" target="_blank"><button style="background-color: red; color: white; border: none; border-radius: 5px; padding: 10px 20px;">اطلب الآن عبر الواتساب</button></a>
+			
+			
+			
+			<a href="https://wa.me/+996990192675" target="_blank"><button style="font-size: 1em; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; border: none; transition: transform 0.3s;">
+  اطلب هنا عبر الواتساب
+</button></a>
+
+<style>
+  button:hover {
+    transform: scale(1.2);
+  }
+</style>
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           <div class="col-sm-6 col-lg-4 all pizza">
+            <div class="box">
+              <div>
+                <div class="img-box">
+                  <img src="images/f1.png" alt="">
+                </div>
+                <div class="detail-box">
+                  <h5>
+                    البيتزا بالبصل و الجزر
+                  </h5>
+                  <p>
+                   
+                  </p>
+                  <div class="options">
+                    <h6>
+                      $5
+                    </h6>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
